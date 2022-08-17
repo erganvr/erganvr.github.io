@@ -1,4 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://185.224.82.193/img/120110l.jpg" group-title="overlord iv",Notifikasi
-https://drive.google.com/file/d/1W-SkqAEww9IcRfXQPQnbbNP-CvsquFj8/view?usp=sharing
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/0512/brand.gif?itok=asaAyPWp" group-title="kumpulan",channel indonesia
+https://iptv-org.github.io/iptv/languages/ind.m3u
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/0512/brand.gif?itok=asaAyPWp" group-title="kumpulan",channel Jepang
+https://iptv-org.github.io/iptv/languages/jpn.m3u
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/0512/brand.gif?itok=asaAyPWp" group-title="kumpulan",channel Thailand
+https://iptv-org.github.io/iptv/languages/tha.m3u
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/0512/brand.gif?itok=asaAyPWp" group-title="kumpulan",Comedy
+https://iptv-org.github.io/iptv/categories/comedy.m3u
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/0512/brand.gif?itok=asaAyPWp" group-title="kumpulan",Cooking
+https://iptv-org.github.io/iptv/categories/cooking.m3u
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/0512/brand.gif?itok=asaAyPWp" group-title="kumpulan",Cooking
+https://iptv-org.github.io/iptv/categories/cooking.m3u
