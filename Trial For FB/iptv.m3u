@@ -1,0 +1,25 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/VpBVorp.png" group-title="Movie",AXN
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" status="online" group-title="pengetahuan",Nat Geo Wild
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" status="online" group-title="pengetahuan",Natgeo
+https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" status="online" group-title="Movie",KBS World
+https://epg.pm/stream/395d673036d1fa1aba78f67dec15d116c50197216c4c6d0de9da30bd60a8f07f.m3u8
+
+#EXTINF:-1 tvg-id="" status="online" group-title="Movie",HBO HD
+http://194.163.179.246/slovenci/filmski/hbohd.m3u8
+
+#EXTINF:-1 tvg-id="" status="online" group-title="Movie",HBO Vietnam
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" status="online" group-title="Sport",Bein Sport Laliga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 tvg-id="" status="online" group-title="Sport",Fox Sports2
+http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" status="online" group-title="Sport",Fox Sports2 alternative
+http://170.82.200.38:8080/fox_sports_2/playlist.m3u8
